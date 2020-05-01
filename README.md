@@ -1,6 +1,6 @@
 Gut vs. Data: Mapping career arcs with touring history in British indie and alternative music
 
-The overall aim of this thesis is to map touring histories to British indie and alternative career arcs in a post-streaming world, ultimately creating and visualizing an artist’s career fingerprint through live music. The results identify and investigate patterns of career arcs that emerge when viewing artist touring histories at scale, informing music industry professionals what to look for in the future, informing young acts how to utilize live music, and informing fans of another exciting way to explore their favorite band.
+The aim of this thesis is to map touring histories to British indie and alternative career arcs in a post-streaming world, ultimately creating and visualizing an artist’s career fingerprint through live music. The results identify and investigate patterns of career arcs that emerge when viewing artist touring histories at scale, informing music industry professionals what to look for in the future, informing young acts how to utilize live music, and informing fans of another exciting way to explore their favorite band.
 
 <a href="https://caitlynmralph.github.io/thesis-app-sandbox/">Site</a>
 
