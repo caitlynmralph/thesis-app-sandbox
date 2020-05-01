@@ -13,8 +13,8 @@ Abstract
 
 <a href="https://github.com/caitlynmralph/thesis-app-sandbox/blob/master/demo.mp4">Demo</a>
 
-See process documentation <a href="https://github.com/caitlynmralph/thesis/blob/master/README.md">here</a>.
+<a href="https://github.com/caitlynmralph/thesis/blob/master/README.md">Process Documentation</a>
 
 Created by Caitlyn Ralph. Shout out to Songkick, Spotify, and last.fm for their amazing APIs. Thanks to Parsons MSDV Director Daniel Sauter and former Parsons MSDV Director Aaron Hill for helping me shape a degree that worked right for me and my career. And a round of applause for my classmates, who put up with me talking about The 1975 in class, after class, after class...
 
-MIT License
+<a href="https://github.com/caitlynmralph/thesis-app-sandbox/blob/master/LICENSE">MIT License</a>
